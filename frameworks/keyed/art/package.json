@@ -12,7 +12,7 @@
   },
   "author": "sullay",
   "devDependencies": {
-    "vite": "2.7.2"
+    "vite": "2.9.16"
   },
   "dependencies": {
     "js-art": "0.1.7"
