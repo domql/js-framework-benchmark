@@ -46,7 +46,7 @@
     "puppeteer-core": "^14.4.1",
     "ramda": "^0.28.0",
     "selenium-webdriver": "4.2.0",
-    "semver": "7.3.7",
+    "semver": "7.5.2",
     "underscore": "^1.13.4",
     "yargs": "17.5.1"
   }
